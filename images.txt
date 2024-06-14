@@ -16,7 +16,7 @@ jeessy/ddns-go
 neosmemo/memos
 niruix/sshwifty
 nriver/trilium-cn
-linuxserver/qbittorrent
+qbittorrentofficial/qbittorrent-nox
 photoprism/photoprism
 portainer/portainer-ce
 qingfeng2336/it-tools
