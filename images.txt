@@ -10,6 +10,7 @@ deluan/navidrome
 dullage/flatnotes
 ghcr.io/advplyr/audiobookshelf
 ghcr.io/jeffvli/feishin
+ghcr.io/logseq/logseq-webapp
 homeassistant/home-assistant
 hslr/sun-panel
 jeessy/ddns-go
