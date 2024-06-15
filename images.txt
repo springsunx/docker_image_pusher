@@ -6,7 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 bpatrik/pigallery2
 containrrr/watchtower
-deluan/navidrome
+deluan/navidrome:latest
+deluan/navidrome:develop
 dullage/flatnotes
 ghcr.io/advplyr/audiobookshelf
 ghcr.io/jeffvli/feishin
