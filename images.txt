@@ -12,6 +12,7 @@ dullage/flatnotes
 ghcr.io/advplyr/audiobookshelf
 ghcr.io/jeffvli/feishin
 ghcr.io/logseq/logseq-webapp
+ghcr.io/wg-easy/wg-easy:nightly
 homeassistant/home-assistant
 hslr/sun-panel
 jeessy/ddns-go
