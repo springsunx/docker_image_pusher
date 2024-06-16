@@ -15,6 +15,7 @@ ghcr.io/logseq/logseq-webapp
 homeassistant/home-assistant
 hslr/sun-panel
 jeessy/ddns-go
+linuxserver/wireguard
 neosmemo/memos
 niruix/sshwifty
 nriver/trilium-cn
