@@ -21,7 +21,6 @@ masipcat/wireguard-go
 neosmemo/memos
 niruix/sshwifty
 nriver/trilium-cn
-outlinewiki/outline
 qbittorrentofficial/qbittorrent-nox
 photoprism/photoprism
 portainer/portainer-ce
