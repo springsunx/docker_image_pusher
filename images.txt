@@ -17,6 +17,7 @@ homeassistant/home-assistant
 hslr/sun-panel
 jeessy/ddns-go
 linuxserver/wireguard
+louislam/dockge
 masipcat/wireguard-go
 neosmemo/memos
 niruix/sshwifty
