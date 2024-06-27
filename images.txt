@@ -16,6 +16,7 @@ ghcr.io/wg-easy/wg-easy
 homeassistant/home-assistant
 hslr/sun-panel
 jeessy/ddns-go
+jlesage/czkawka
 linuxserver/wireguard
 louislam/dockge
 masipcat/wireguard-go
