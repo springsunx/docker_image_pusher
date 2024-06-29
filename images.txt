@@ -5,6 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 bpatrik/pigallery2
+cleverest/crproxy
 containrrr/watchtower
 deluan/navidrome:latest
 deluan/navidrome:develop
